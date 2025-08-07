@@ -14,6 +14,7 @@
 
 - Capacitação técnica em Python
 - Manutenção de microcomputadores
+- Inglês intermediário
 
 - 
 
