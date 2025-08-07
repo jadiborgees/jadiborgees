@@ -1,7 +1,7 @@
-<h1 align="center">Lucas Corrêa</h1>
+<h1 align="center">Jadi Pereira Borges</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack · Professor de TI · Especialista em Produto Digital
+  Desenvolvedor Front End
 </p>
 
 ---
