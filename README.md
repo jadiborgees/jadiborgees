@@ -1,7 +1,7 @@
 <h1 align="center">Jadi Pereira Borges</h1>
 
 <p align="center">
-  Desenvolvedor Front End
+  Desenvolvedora Front End
 </p>
 
 ---
