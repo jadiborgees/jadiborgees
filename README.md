@@ -1,19 +1,23 @@
-<h1 align="center">Olá! Eu sou a Jadi Borges 👋</h1>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Desenvolvedora+Front-end;Angular+%7C+React+%7C+TypeScript;Construindo+experi%C3%AAncias+digitais+%F0%9F%92%BB)](https://git.io/typing-svg)
+# 👩‍💻 Jadi Pereira Borges
 
-</div>
+### Desenvolvedora Front-end
 
-<p align="center">
-  Estudante de Sistemas para Internet • Desenvolvedora Front-end
-</p>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Angular+%7C+React+%7C+TypeScript;Interfaces+modernas+e+responsivas;Front-end+%7C+UI%2FUX+%7C+APIs+REST;Transformando+ideias+em+experi%C3%AAncias+digitais"
+  alt="Typing SVG"
+/>
 
-<div align="center">
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jadi_Borges-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadiborgees/)
-[![GitHub](https://img.shields.io/badge/GitHub-jadiborgees-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jadiborgees)
+<a href="https://www.linkedin.com/in/jadi-b-69a215113/">
+  <img src="https://img.shields.io/badge/LinkedIn-Jadi%20Borges-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jadiborgees">
+  <img src="https://img.shields.io/badge/GitHub-jadiborgees-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -21,174 +25,283 @@
 
 ## 👩‍💻 Sobre mim
 
-Sou estudante de **Tecnologia em Sistemas para Internet**, com foco em
-**Desenvolvimento Front-end**.
+Sou estudante de **Tecnologia em Sistemas para Internet**, com foco em **Desenvolvimento Front-end**.
 
-Tenho experiência prática no desenvolvimento de aplicações e interfaces web
-responsivas, trabalhando principalmente com **Angular, React, JavaScript e
-TypeScript**.
+Tenho experiência prática no desenvolvimento de aplicações e interfaces web **modernas, responsivas e componentizadas**, utilizando principalmente **Angular, React, JavaScript e TypeScript**.
 
-Também possuo conhecimentos em **Node.js, Python e SQL**, além de experiência
-com consumo de **APIs REST**, componentização, responsividade e versionamento
-de código com **Git e GitHub**.
+Também possuo conhecimentos em **Node.js, Python, SQL e APIs REST**, além de experiência com **Git, GitHub, Figma, responsividade, componentização e integração de APIs**.
 
-Atualmente estou aprimorando meus conhecimentos e desenvolvendo novos projetos
-para evoluir cada vez mais como desenvolvedora.
-
-- 🎓 Sistemas para Internet
+- 🎓 Tecnologia em Sistemas para Internet
 - 💻 Foco em Desenvolvimento Front-end
-- 🌱 Aprimorando Angular, React e TypeScript
-- 🔗 Experiência com APIs REST
+- 🅰️ Angular e TypeScript
+- ⚛️ React
 - 🎨 Interesse em UI/UX e interfaces modernas
+- 🔗 Consumo e integração de APIs REST
 - 🌎 Inglês intermediário
 
 ---
 
 ## 🚀 Tecnologias
 
-### Linguagens
+<div align="center">
 
-<div align="left">
+### 🎨 Front-end
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-Front--end-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-Front--end-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-Front--end-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-Front--end-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-Framework-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-Library-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+<br><br>
+
+### ⚙️ Back-end & Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,mysql&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Node.js-Back--end-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Linguagem-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Banco%20de%20Dados-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/API-REST-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+
+<br><br>
+
+### 🛠️ Ferramentas & Design
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Git-Versionamento-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-UI%2FUX-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-Deploy-000000?style=flat-square&logo=vercel&logoColor=white"/>
 
 </div>
 
-### Frameworks e bibliotecas
+---
 
-<div align="left">
+## ✨ Projetos em destaque
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<table>
+<tr>
 
-</div>
+<td width="50%" valign="top">
 
-### Ferramentas
+<h3 align="center">🐾 PetVitaliz</h3>
 
-<div align="left">
+<p align="center">
+  Plataforma web para gerenciamento da saúde e dos cuidados com pets.
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ts,html,css&theme=dark" />
+</p>
 
-</div>
+<p>
+
+🔹 Desenvolvimento com Angular  
+🔹 Interface responsiva  
+🔹 Componentização  
+🔹 Gerenciamento de informações dos pets  
+🔹 Integração com APIs REST  
+🔹 Foco em experiência do usuário  
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/PetVitaliz/petvitaliz-web">
+  <img src="https://img.shields.io/badge/CÓDIGO-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://petvitaliz.vercel.app">
+  <img src="https://img.shields.io/badge/VER%20PROJETO-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">✨ Elegance Cintra Beauty</h3>
+
+<p align="center">
+  Catálogo digital de perfumes com uma interface moderna, sofisticada e responsiva.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ts,html,css&theme=dark" />
+</p>
+
+<p>
+
+🔹 Catálogo de produtos  
+🔹 Busca e filtros  
+🔹 Sistema de favoritos  
+🔹 Carrinho de compras  
+🔹 Cálculo de frete  
+🔹 LocalStorage  
+🔹 Integração com WhatsApp  
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/jadiborgees/cintra-beauty">
+  <img src="https://img.shields.io/badge/CÓDIGO-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🍕 Projeto Pizzaria</h3>
+
+<p align="center">
+  Landing page responsiva desenvolvida para uma pizzaria.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+</p>
+
+<p>
+
+🔹 Layout responsivo  
+🔹 Interface moderna  
+🔹 Navegação intuitiva  
+🔹 Desenvolvimento Mobile First  
+🔹 Interações com JavaScript  
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/jadiborgees/projeto-pizzaria">
+  <img src="https://img.shields.io/badge/CÓDIGO-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🚀 Mais projetos</h3>
+
+<p align="center">
+  Outros projetos e estudos desenvolvidos durante minha evolução como desenvolvedora Front-end.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js&theme=dark" />
+</p>
+
+<p>
+
+🔹 Angular  
+🔹 React  
+🔹 TypeScript  
+🔹 JavaScript  
+🔹 APIs REST  
+🔹 Interfaces responsivas  
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/jadiborgees?tab=repositories">
+  <img src="https://img.shields.io/badge/VER%20REPOSITÓRIOS-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# ⭐ Projetos em destaque
-
-## 🐾 PetVitaliz
-
-Sistema web desenvolvido para auxiliar no gerenciamento da saúde e dos
-cuidados com pets.
-
-**Tecnologias:** Angular • TypeScript • HTML • CSS • APIs REST
-
-[![Repositório](https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PetVitaliz/petvitaliz-web)
-[![Projeto](https://img.shields.io/badge/Ver_projeto-000000?style=for-the-badge&logo=vercel)](https://petvitaliz.vercel.app)
-
----
-
-## ✨ Elegance Cintra Beauty
-
-Catálogo digital de perfumes desenvolvido com Angular, com interface moderna,
-responsiva e foco na experiência do usuário.
-
-O projeto possui catálogo de produtos, filtros, favoritos, carrinho, cálculo
-de frete e finalização do pedido pelo WhatsApp.
-
-**Tecnologias:** Angular • TypeScript • HTML • CSS • LocalStorage
-
-[![Repositório](https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jadiborgees/cintra-beauty)
-
----
-
-## 💼 Portfólio
-
-Portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e
-experiência como desenvolvedora.
-
-**Tecnologias:** HTML • CSS • JavaScript
-
-[![Repositório](https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jadiborgees/portfolio-jadi-borges)
-
----
-
-## 🍕 Projeto Pizzaria
-
-Landing page responsiva desenvolvida para uma pizzaria, com foco em layout
-moderno e adaptação para diferentes tamanhos de tela.
-
-**Tecnologias:** HTML • CSS • JavaScript
-
-[![Repositório](https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jadiborgees/projeto-pizzaria)
-
----
-
-## 📊 Atividade no GitHub
+## 📊 GitHub
 
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=jadiborgees&theme=github-dark-blue&hide_border=true"
-  alt="GitHub Streak"
+  height="170"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=jadiborgees&theme=github-dark-blue&hide_border=true"
 />
 
 </div>
 
 ---
 
-## 🐍 Minhas contribuições
+## 🌱 Minhas contribuições
 
 <div align="center">
 
-![](./profile-3d-contrib/profile-night-green.svg)
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%"/>
 
 </div>
 
 ---
 
-<details>
-
-<summary>✨ Um pouco mais sobre mim</summary>
-
-<br>
-
-Além do desenvolvimento Front-end, também possuo conhecimentos em
-desenvolvimento Back-end, banco de dados e suporte técnico.
-
-Gosto especialmente de transformar ideias e protótipos em interfaces
-funcionais, responsivas e intuitivas.
-
-Estou constantemente desenvolvendo novos projetos e buscando evoluir minhas
-habilidades em desenvolvimento web.
-
-</details>
-
----
-
-## 📫 Vamos conversar?
+## 🎯 Atualmente
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jadi_Borges-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadiborgees/)
-[![GitHub](https://img.shields.io/badge/GitHub-jadiborgees-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jadiborgees)
+💻 **Desenvolvimento Front-end**
+
+🅰️ Angular &nbsp;•&nbsp; ⚛️ React &nbsp;•&nbsp; 🔷 TypeScript
+
+🎨 UI/UX &nbsp;•&nbsp; 📱 Responsividade &nbsp;•&nbsp; 🔗 APIs REST
+
+<br>
+
+**Sempre buscando transformar ideias em interfaces funcionais, modernas e intuitivas.**
 
 </div>
 
-<br>
+---
+
+## 📫 Contato
 
 <div align="center">
 
-### 💻 Construindo experiências digitais com código, criatividade e aprendizado contínuo.
+### Vamos nos conectar?
+
+<br>
+
+<a href="https://www.linkedin.com/in/jadi-b-69a215113/">
+  <img src="https://img.shields.io/badge/LinkedIn-Jadi%20Borges-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jadiborgees">
+  <img src="https://img.shields.io/badge/GitHub-jadiborgees-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+### ✨ Construindo experiências digitais com código e criatividade.
 
 </div>
