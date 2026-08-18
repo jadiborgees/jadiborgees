@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👩‍💻 Jadi Pereira Borges
+# Jadi Pereira Borges
 
 ### Desenvolvedora Front-end
 
