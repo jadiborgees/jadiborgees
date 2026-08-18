@@ -23,7 +23,7 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante de **Tecnologia em Sistemas para Internet**, com foco em **Desenvolvimento Front-end**.
 
@@ -31,13 +31,13 @@ Tenho experiência prática no desenvolvimento de aplicações e interfaces web 
 
 Também possuo conhecimentos em **Node.js, Python, SQL e APIs REST**, além de experiência com **Git, GitHub, Figma, responsividade, componentização e integração de APIs**.
 
-- 🎓 Tecnologia em Sistemas para Internet
-- 💻 Foco em Desenvolvimento Front-end
-- 🅰️ Angular e TypeScript
-- ⚛️ React
-- 🎨 Interesse em UI/UX e interfaces modernas
-- 🔗 Consumo e integração de APIs REST
-- 🌎 Inglês intermediário
+- Tecnologia em Sistemas para Internet
+- Foco em Desenvolvimento Front-end
+- Angular e TypeScript
+- React
+- Interesse em UI/UX e interfaces modernas
+- Consumo e integração de APIs REST
+- Inglês intermediário
 
 ---
 
@@ -73,7 +73,7 @@ Também possuo conhecimentos em **Node.js, Python, SQL e APIs REST**, além de e
 
 <br><br>
 
-### 🛠️ Ferramentas & Design
+### Ferramentas & Design
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark" />
 
@@ -89,7 +89,7 @@ Também possuo conhecimentos em **Node.js, Python, SQL e APIs REST**, além de e
 
 ---
 
-## ✨ Projetos em destaque
+## Projetos em destaque
 
 <table>
 <tr>
@@ -133,7 +133,7 @@ Também possuo conhecimentos em **Node.js, Python, SQL e APIs REST**, além de e
 
 <td width="50%" valign="top">
 
-<h3 align="center">✨ Elegance Cintra Beauty</h3>
+<h3 align="center"> Elegance Cintra Beauty</h3>
 
 <p align="center">
   Catálogo digital de perfumes com uma interface moderna, sofisticada e responsiva.
@@ -175,7 +175,7 @@ Também possuo conhecimentos em **Node.js, Python, SQL e APIs REST**, além de e
 
 <td width="50%" valign="top">
 
-<h3 align="center">🍕 Projeto Pizzaria</h3>
+<h3 align="center">Projeto Pizzaria</h3>
 
 <p align="center">
   Landing page responsiva desenvolvida para uma pizzaria.
@@ -207,7 +207,7 @@ Também possuo conhecimentos em **Node.js, Python, SQL e APIs REST**, além de e
 
 <td width="50%" valign="top">
 
-<h3 align="center">🚀 Mais projetos</h3>
+<h3 align="center"> Mais projetos</h3>
 
 <p align="center">
   Outros projetos e estudos desenvolvidos durante minha evolução como desenvolvedora Front-end.
@@ -243,7 +243,7 @@ Também possuo conhecimentos em **Node.js, Python, SQL e APIs REST**, além de e
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <div align="center">
 
@@ -256,7 +256,7 @@ Também possuo conhecimentos em **Node.js, Python, SQL e APIs REST**, além de e
 
 ---
 
-## 🌱 Minhas contribuições
+## Minhas contribuições
 
 <div align="center">
 
@@ -266,15 +266,15 @@ Também possuo conhecimentos em **Node.js, Python, SQL e APIs REST**, além de e
 
 ---
 
-## 🎯 Atualmente
+## Atualmente
 
 <div align="center">
 
 💻 **Desenvolvimento Front-end**
 
-🅰️ Angular &nbsp;•&nbsp; ⚛️ React &nbsp;•&nbsp; 🔷 TypeScript
+Angular &nbsp;•&nbsp; React &nbsp;•&nbsp; TypeScript
 
-🎨 UI/UX &nbsp;•&nbsp; 📱 Responsividade &nbsp;•&nbsp; 🔗 APIs REST
+UI/UX &nbsp;•&nbsp; Responsividade &nbsp;•&nbsp; APIs REST
 
 <br>
 
@@ -284,7 +284,7 @@ Também possuo conhecimentos em **Node.js, Python, SQL e APIs REST**, além de e
 
 ---
 
-## 📫 Contato
+## Contato
 
 <div align="center">
 
@@ -302,6 +302,6 @@ Também possuo conhecimentos em **Node.js, Python, SQL e APIs REST**, além de e
 
 <br><br>
 
-### ✨ Construindo experiências digitais com código e criatividade.
+### Construindo experiências digitais com código e criatividade.
 
 </div>
