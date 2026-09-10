@@ -41,11 +41,11 @@ Também possuo conhecimentos em **Node.js, Python, SQL e APIs REST**, além de e
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 <div align="center">
 
-### 🎨 Front-end
+### Front-end
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap&theme=dark" />
 
