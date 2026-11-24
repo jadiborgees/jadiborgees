@@ -8,7 +8,6 @@ Construindo experiências digitais com código, design e criatividade.
 
 <br>
 
-
 </div>
 
 ---
@@ -17,7 +16,7 @@ Construindo experiências digitais com código, design e criatividade.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,html,css,mysql,git,github,figma,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=java,spring,ts,js,angular,react,html,css,mysql,docker,git,github,figma,vscode,idea" />
 
 <br><br>
 
@@ -35,42 +34,40 @@ Construindo experiências digitais com código, design e criatividade.
 
 <div align="center">
 
-## Principais projetos
+## Projetos em destaque
+
+Projetos completos, do back-end ao celular: a mesma API atendendo a versão web e o app mobile.
 
 </div>
 
-### Biblioteca API
+<br>
 
-API REST desenvolvida para o gerenciamento de uma biblioteca comunitária, permitindo organizar e controlar informações relacionadas a livros, usuários, autores e empréstimos.
+### 🐾 PetVitaliz — clínica veterinária com planos de saúde para pets
 
-O projeto está sendo desenvolvido com **Java e Spring Boot**, utilizando uma arquitetura organizada em Models, Repositories e Controllers. A API possui operações CRUD para cadastro, consulta, atualização e exclusão de dados, além de integração com banco de dados através do Spring Data JPA.
+Plataforma completa para tutores de pets: cadastro e perfil dos pets, contratação de planos de saúde, agendamento de consultas e serviços, benefícios e pagamentos. Do protótipo no **Figma** à publicação, com uma única API em Spring Boot atendendo o site e o aplicativo.
 
-**Tecnologias:** `Java` `Spring Boot` `Spring Data JPA` `MySQL` `REST API`
+| | Back-end | Web | Mobile |
+|---|---|---|---|
+| **Stack** | Java 21 · Spring Boot 3.5 · Spring Security · JWT · MySQL · Docker | Angular · TypeScript · CSS | React Native · Expo · TypeScript |
+| **Destaques** | Autenticação com JWT, e-mails, upload de imagens (Cloudinary), Swagger e testes com JUnit e Mockito. Migrada de Express + Prisma sem quebrar os clientes. | Área pública e área do cliente responsivas, contratação de planos, agendamento e painéis de admin e funcionário. | Perfil dos pets, planos, agendamentos, cartões e notificações, com a identidade visual da marca. |
+| **Código** | [![API](https://img.shields.io/badge/Repositório-API-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/PetVitaliz/petvitaliz-service-spring) | [![Web](https://img.shields.io/badge/Repositório-Web-DD0031?style=flat-square&logo=angular&logoColor=white)](https://github.com/PetVitaliz/petvitaliz-web) | [![Mobile](https://img.shields.io/badge/Repositório-Mobile-000020?style=flat-square&logo=expo&logoColor=white)](https://github.com/PetVitaliz/petvitaliz-mobile) |
 
-<a href="https://github.com/jadiborgees/biblioteca-api">
-  <img src="https://img.shields.io/badge/Ver%20repositório-Biblioteca%20API-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br>
 
-<br><br>
+### 📚 Biblioteca Comunitária — gestão de livros e empréstimos
 
-### PetVitaliz Web
+Sistema para administrar uma biblioteca comunitária: livros e estoque, autores, leitores com endereço e empréstimos com devolução, cancelamento e controle de atrasos. A API organiza as regras de negócio, e o painel web e o app mobile seguem o mesmo padrão visual.
 
-Plataforma web desenvolvida para facilitar o acesso a cuidados e serviços para pets, reunindo em um único ambiente funcionalidades relacionadas ao gerenciamento de pets, contratação de planos e acesso aos benefícios e serviços oferecidos pela PetVitaliz.
+| | Back-end | Web | Mobile |
+|---|---|---|---|
+| **Stack** | Java 21 · Spring Boot · Spring Data JPA · HATEOAS · Docker | Angular 17 (SSR) · TypeScript | React Native · Expo · TypeScript |
+| **Destaques** | CRUD completo, paginação, consultas personalizadas, validação, tratamento global de erros e documentação com Swagger. | Painel administrativo para gerenciar livros, autores, leitores e empréstimos. | Painel no celular com totais, atrasos, estoque e novo empréstimo em 3 etapas. |
+| **Código** | [![API](https://img.shields.io/badge/Repositório-API-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/jadiborgees/biblioteca-api) | [![Web](https://img.shields.io/badge/Repositório-Web-DD0031?style=flat-square&logo=angular&logoColor=white)](https://github.com/jadiborgees/biblioteca-front) | [![Mobile](https://img.shields.io/badge/Repositório-Mobile-000020?style=flat-square&logo=expo&logoColor=white)](https://github.com/jadiborgees/biblioteca-mobile) |
+| **No ar** | [![Render](https://img.shields.io/badge/API-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://biblioteca-api-10lf.onrender.com) | [![Vercel](https://img.shields.io/badge/Site-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://biblioteca-app.vercel.app) | |
 
-O projeto envolve desde a criação da experiência e das interfaces no **Figma** até o desenvolvimento da aplicação web, com foco em uma navegação simples, moderna e intuitiva para os tutores de pets.
-
-**Tecnologias:** `React` `JavaScript` `CSS` `Figma`
-
-<a href="https://github.com/PetVitaliz/petvitaliz-web">
-  <img src="https://img.shields.io/badge/Ver%20repositório-PetVitaliz%20Web-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
+<br>
 
 ---
-
-<div align="center">
-
 
 <div align="center">
 
